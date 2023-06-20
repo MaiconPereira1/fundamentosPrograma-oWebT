@@ -1,0 +1,68 @@
+div{
+    width: 200px;
+    height: 300px;
+    
+}
+.divSticky{
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.divrelative{
+    background-color: red;
+    position: relative;
+    top: 120px;
+    left: 300px;
+}
+.divFixed{
+    background-color: mediumorchid;
+    position: fixed;
+    top: 200px;
+    left: 200px;
+}
+.divStatic{
+    background-color: blueviolet;
+    position:static;
+    top: 300px;
+    left: 300px;
+}
+.divAbsolute{
+    background-color: darkblue;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+}
+.divAlignCenter{
+    background-color: greenyellow;
+    margin: 0 auto;
+}
+.divAlignLeft{
+    background-color: darkgreen;
+    float: left;
+}
+.divAlignRight{
+    background-color: brown;
+    float: right;
+}
+.divMenu{
+    background-color: cornflowerblue;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 50px;
+    left: 0px;
+}
+.logoUnipar{
+    height: 40px;
+    margin: 5px;
+}
+.UnPR{
+    top: 5px;
+    position: fixed;
+    left: 40px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
